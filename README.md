@@ -1,3 +1,5 @@
+# Facebook ads library scraper
+Interested in using this scraper? Get it here: [Facebook ads library scraper](https://apify.com/curious_coder/facebook-ads-library-scraper)
 ## How it works
 
 The Facebook ads library scraper is an Apify actor designed to extract information about ads run by facebook company pages. 
